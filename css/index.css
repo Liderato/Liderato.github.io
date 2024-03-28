@@ -95,7 +95,6 @@ article p{
 article .img-uno-inicio img{
     width: 50%;
     margin-top: 20px;
-
 }
 
 .img-dos-inicio{
@@ -195,5 +194,22 @@ article .img-uno-inicio img{
 
     #icon-menu{
         right: 60px;
+    }
+}
+
+@media screen and (max-width: 450px){
+    article .img-uno-inicio img{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .container-especificaciones p{
+        padding: 0 25px;
+    }
+
+    .video-uno-inicio iframe{
+        width: 100%;
+        height: 250px;
+        margin-top: 20px;
     }
 }
