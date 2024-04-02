@@ -39,7 +39,7 @@ header{
 }
 
 .logo h1 b{
-    color: #46a2fd;
+    color: #FF3131;
 }
 
 .menu{
@@ -73,7 +73,7 @@ header{
 }
 
 .menu nav ul li a:hover{
-    color: #46a2fd;
+    color: #FF3131;
 }
 
 .menu nav ul li a i{
@@ -119,7 +119,7 @@ header{
 }
 
 #ctn-icon-search i:hover{
-    color: #46a2fd;
+    color: #FF3131;
 }
 
 
@@ -185,7 +185,7 @@ header{
 #button-up{
     width: 60px;
     height: 60px;
-    background: #46a2fd;
+    background: #FF3131;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -340,7 +340,7 @@ header{
         width: 20px;
         display: inline-block;
         margin-right: 10px;
-        color: #46a2fd;
+        color: #FF3131;
     }
 
     #icon-menu{

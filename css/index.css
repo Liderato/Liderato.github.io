@@ -14,7 +14,7 @@
     content: '';
     width: 100%;
     height: 100%;
-    background: rgb(38,172,255,0.8);
+    background: rgba(253, 98, 98, 0.8);
     position: absolute;
     top: 0;
     left: 0;
@@ -73,7 +73,7 @@ article:before{
     position: absolute;
     top: 0;
     left: 0;
-    background: #46a2fd;
+    background: #FF3131;
 }
 
 article h1{
@@ -147,7 +147,7 @@ article .img-uno-inicio img{
     margin-left: 20px;
     padding: 10px 50px;
     font-size: 16px;
-    background: #46a2fd;
+    background: #FF3131;
     border: none;
     color: #fff;
     cursor: pointer;
