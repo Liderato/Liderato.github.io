@@ -86,6 +86,7 @@ article p{
     margin-top: 20px;
     font-size: 18px;
     color: #3c3c3c;
+    text-align: justify;
 }
 
 .img-uno-inicio{
@@ -174,6 +175,10 @@ article .img-uno-inicio img{
 
     article{
         box-shadow: 0 0 0 0;
+    }
+
+    article h1{
+        font-size: 24px;
     }
 
     .container-aside{
